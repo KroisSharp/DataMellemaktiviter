@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise: Intents personal information</string>
+    <string name="ToUse">For at bruge denne app skal du indtaste nogle data</string>
+    <string name="ok">ok</string>
+    <string name="name">name</string>
+    <string name="adresse">adresse</string>
+    <string name="shoesize">shoesize</string>
+    <string name="send">send</string>
+    <string name="confirm">confirm</string>
+</resources>
